@@ -1,0 +1,20 @@
+h1{
+    font-size: 48px;
+    color: #2e5588;
+    text-align: center;
+}
+
+p{
+    font-size: 20px;
+    color: #2e5588;
+    line-height: 1.6;
+    margin: 20px;
+    text-align: center;
+}
+
+iframe{
+    display: block;
+    margin: 0 auto;
+    border: 2px solid #2e5588;
+    border-radius: 10px;
+}
